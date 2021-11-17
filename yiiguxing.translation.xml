@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="http Response" />
+      <item value="Closeable Http Response" />
+      <item value="Logger Factory" />
       <item value="联系人" />
       <item value="Fill pool skipped, pool is at sufficient level" />
       <item value="Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
@@ -48,26 +51,28 @@
       <item value="A loadbalacing strategy that randomly distributes traffic amongst existing" />
       <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
       <item value="lang" />
-      <item value="optionally" />
-      <item value="* Ensure that a release propagates, even if there are other * in-progress acquires/releases. This proceeds in the usual * way of trying to unparkSuccessor of head if it needs * signal. But if it does not, status is set to PROPAGATE to * ensure that upon release, propagation continues. * Additionally, we must loop in case a new node is added * while we are doing this. Also, unlike other uses of * unparkSuccessor, we need to know if CAS to reset status * fails, if so rechecking." />
-      <item value="loop if head changed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617156799056" />
+    <option name="lastTrimTime" value="1637133497153" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20211117001001457" />
+      </app-key>
+    </option>
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
+        <option name="primaryLanguage" value="ESPERANTO" />
       </google-translate>
     </option>
   </component>
