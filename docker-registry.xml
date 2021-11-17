@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="jdcncy@gmail.com">
+      <option name="address" value="https://gbd3imwi.mirror.aliyuncs.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="dcncy" />
+    </DockerRegistry>
+  </component>
+</application>

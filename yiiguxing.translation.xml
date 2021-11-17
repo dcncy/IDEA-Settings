@@ -1,0 +1,74 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="联系人" />
+      <item value="Fill pool skipped, pool is at sufficient level" />
+      <item value="Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
+      <item value="Unique index or primary key violation" />
+      <item value="violation" />
+      <item value="* The ProtectionDomain class encapsulates the characteristics of a domain, * which encloses a set of classes whose instances are granted a set * of permissions when being executed on behalf of a given set of Principals. * &lt;p&gt; * A static set of permissions can be bound to a ProtectionDomain when it is * constructed; such permissions are granted to the domain regardless of the * Policy in force. However, to support dynamic security policies, a * ProtectionDomain can also be constructed such that it is dynamically * mapped to a set of permissions by the current Policy whenever a permission * is checked." />
+      <item value="A class belonging to the same package that this * class belongs to. It is used to load the class." />
+      <item value="used when loading the class. It has to have * an access right to define a new class." />
+      <item value="* Converts this class to a &lt;code&gt;java.lang.Class&lt;/code&gt; object. * Once this method is called, further modifications are not * allowed any more. * * &lt;p&gt;This method is provided for convenience. If you need more * complex functionality, you should write your own class loader. * * &lt;p&gt;Note: this method calls &lt;code&gt;toClass()&lt;/code&gt; * in &lt;code&gt;ClassPool&lt;/code&gt;. * * &lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; A Class object returned by this method may not * work with a security manager or a signed jar file because a * protection domain is not specified." />
+      <item value="the protection domain that the class belongs to. * If it is null, the default domain created * by &lt;code&gt;java.lang.ClassLoader&lt;/code&gt; is used." />
+      <item value="* &lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; In Java 11 or later, the call to this method will * print a warning message:&lt;/p&gt; * &lt;blockquote&gt;&lt;pre&gt; * WARNING: An illegal reflective access operation has occurred * WARNING: Illegal reflective access by javassist.util.proxy.SecurityActions$3 ... * WARNING: Please consider reporting this to the maintainers of javassist.util.proxy.SecurityActions$3 * WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations * WARNING: All illegal access operations will be denied in a future release" />
+      <item value="* Converts this class to a &lt;code&gt;java.lang.Class&lt;/code&gt; object. * Once this method is called, further modifications are not * allowed any more. * To load the class, this method uses the context class loader * of the current thread. If the program is running on some application * server, the context class loader might be inappropriate to load the * class." />
+      <item value="Constructs a copy of &lt;code&gt;method_info&lt;/code&gt; structure. Class names * appearing in the source &lt;code&gt;method_info&lt;/code&gt; are renamed according * to &lt;code&gt;classnameMap&lt;/code&gt;." />
+      <item value="specifies pairs of replaced and substituted name." />
+      <item value="the source code representing the body. * It must be a single statement or block. * If it is &lt;code&gt;null&lt;/code&gt;, the substituted * body does nothing except returning zero or null." />
+      <item value="Compiles the given source code and creates a method." />
+      <item value="* Creates a copy of a &lt;code&gt;CtMethod&lt;/code&gt; object. * The created method must be * added to a class with &lt;code&gt;CtClass.addMethod()&lt;/code&gt;." />
+      <item value="the hashtable associating original class names * with substituted names. * It can be &lt;code&gt;null&lt;/code&gt;." />
+      <item value="the class to which the created method is added." />
+      <item value="a list of the parameter types" />
+      <item value="the signature represented by this attribute." />
+      <item value="* Sets the generic signature of the class. * * &lt;p&gt;The generics of Java is implemented by the erasure technique. * After compilation, all type parameters are dropped off from the * main part of a class file. However, for reflection, the type * parameters must be encoded into generic signatures and attached * to a class file. *" />
+      <item value="* Sets the generic signature of the class. * * &lt;p&gt;The generics of Java is implemented by the erasure technique. * After compilation, all type parameters are dropped off from the * main part of a class file. However, for reflection, the type * parameters must be encoded into generic signatures and attached * to a class file." />
+      <item value="the smallest value that can be returned, must be non-negative" />
+      <item value="Creates a random string whose length is the number of characters" />
+      <item value="Creates a new random number generator using a single {@code long} seed. * The seed is the initial value of the internal state of the pseudorandom * number generator which is maintained by method {@link #next}." />
+      <item value="identifier" />
+      <item value="This prevents the page from scrolling back to the top on a hashchange." />
+      <item value="Scroll restoration" />
+      <item value="Articles" />
+      <item value="* If a value is present, returns the value, otherwise throws an exception * produced by the exception supplying function." />
+      <item value="Resolve the given path against this path." />
+      <item value="the path string to resolve against this path" />
+      <item value="Converts a given path string to a {@code Path} and resolves it against * this {@code Path} in exactly the manner specified by the {@link * #resolve(Path) resolve} method. For example, suppose that the name * separator is &quot;{@code /}&quot; and a path represents &quot;{@code foo/bar}&quot;, then * invoking this method with the path string &quot;{@code gus}&quot; will result in * the {@code Path} &quot;{@code foo/bar/gus}&quot;." />
+      <item value="The specified object is not valid" />
+      <item value="* Represents an operation that accepts two input arguments and returns no * result. This is the two-arity specialization of {@link Consumer}. * Unlike most other functional interfaces, {@code BiConsumer} is expected * to operate via side-effects." />
+      <item value="Completion Stage" />
+      <item value="Implements execution conventions for RecursiveActions." />
+      <item value="* &lt;p&gt;For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization." />
+      <item value="* Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream." />
+      <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
+      <item value="Returns a stream consisting of the distinct elements" />
+      <item value="Returns an effectively unlimited stream of pseudorandom" />
+      <item value="duplicate" />
+      <item value="A loadbalacing strategy that randomly distributes traffic amongst existing" />
+      <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
+      <item value="lang" />
+      <item value="optionally" />
+      <item value="* Ensure that a release propagates, even if there are other * in-progress acquires/releases. This proceeds in the usual * way of trying to unparkSuccessor of head if it needs * signal. But if it does not, status is set to PROPAGATE to * ensure that upon release, propagation continues. * Additionally, we must loop in case a new node is added * while we are doing this. Also, unlike other uses of * unparkSuccessor, we need to know if CAS to reset status * fails, if so rechecking." />
+      <item value="loop if head changed" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="FRENCH" value="1" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1617156799056" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+  </component>
+</application>
