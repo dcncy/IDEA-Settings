@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a composed {@code Consumer} that performs, in sequence, this operation followed by the {@code after} operation. If performing either operation throws an exception, it is relayed to the caller of the composed operation. If performing this operation throws an exception, the {@code after} operation will not be performed." />
       <item value="http Response" />
       <item value="Closeable Http Response" />
       <item value="Logger Factory" />
@@ -50,14 +51,14 @@
       <item value="duplicate" />
       <item value="A loadbalacing strategy that randomly distributes traffic amongst existing" />
       <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
-      <item value="lang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
