@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="894" />
+    <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="priority" />
+      <item value="Priority" />
+      <item value="An unbounded priority queue based on a priority heap. The elements of the priority queue are ordered according to their natural ordering, or by a Comparator provided at queue construction time, depending on which constructor is used. A priority queue does not permit null elements. A priority queue relying on natural ordering also does not permit insertion of non-comparable objects (doing so may result in ClassCastException). The head of this queue is the least element with respect to the specified ordering. If multiple elements are tied for least value, the head is one of those elements -- ties are broken arbitrarily. The queue retrieval operations poll, remove, peek, and element access the element at the head of the queue. A priority queue is unbounded, but has an internal capacity governing the size of an array used to store the elements on the queue. It is always at least as large as the queue size. As elements are added to a priority queue, its capacity grows automatically. The details of the growth policy are not specified. This class and its iterator implement all of the optional methods of the Collection and Iterator interfaces. The Iterator provided in method iterator() and the Spliterator provided in method spliterator() are not guaranteed to traverse the elements of the priority queue in any particular order. If you need ordered traversal, consider using Arrays.sort(pq.toArray()). Note that this implementation is not synchronized. Multiple threads should not access a PriorityQueue instance concurrently if any of the threads modifies the queue. Instead, use the thread-safe java.util.concurrent.PriorityBlockingQueue class. Implementation note: this implementation provides O(log(n)) time for the enqueuing and dequeuing methods (offer, poll, remove() and add); linear time for the remove(Object) and contains(Object) methods; and constant time for the retrieval methods (peek, element, and size). This class is a member of the Java Collections Framework." />
       <item value="Returns a composed {@code Consumer} that performs, in sequence, this operation followed by the {@code after} operation. If performing either operation throws an exception, it is relayed to the caller of the composed operation. If performing this operation throws an exception, the {@code after} operation will not be performed." />
       <item value="http Response" />
       <item value="Closeable Http Response" />
@@ -48,17 +54,14 @@
       <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
       <item value="Returns a stream consisting of the distinct elements" />
       <item value="Returns an effectively unlimited stream of pseudorandom" />
-      <item value="duplicate" />
-      <item value="A loadbalacing strategy that randomly distributes traffic amongst existing" />
-      <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
-        <entry key="ESPERANTO" value="1" />
+        <entry key="ESPERANTO" value="3" />
       </map>
     </option>
   </component>
@@ -70,11 +73,6 @@
       <app-key>
         <option name="appId" value="20211117001001457" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
     </option>
   </component>
 </application>
