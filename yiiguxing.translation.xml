@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Annotates a program element that exists, or is more widely visible than otherwise necessary, only for use in test code. Do not use this interface for public or protected declarations: it is a fig leaf for bad design, and it does not prevent anyone from using the declaration---and experience has shown that they will. If the method breaks the encapsulation of its class, then its internal representation will be hard to change. Instead, use RestrictedApiChecker , which enforces fine-grained visibility policies." />
       <item value="priority" />
       <item value="Priority" />
       <item value="An unbounded priority queue based on a priority heap. The elements of the priority queue are ordered according to their natural ordering, or by a Comparator provided at queue construction time, depending on which constructor is used. A priority queue does not permit null elements. A priority queue relying on natural ordering also does not permit insertion of non-comparable objects (doing so may result in ClassCastException). The head of this queue is the least element with respect to the specified ordering. If multiple elements are tied for least value, the head is one of those elements -- ties are broken arbitrarily. The queue retrieval operations poll, remove, peek, and element access the element at the head of the queue. A priority queue is unbounded, but has an internal capacity governing the size of an array used to store the elements on the queue. It is always at least as large as the queue size. As elements are added to a priority queue, its capacity grows automatically. The details of the growth policy are not specified. This class and its iterator implement all of the optional methods of the Collection and Iterator interfaces. The Iterator provided in method iterator() and the Spliterator provided in method spliterator() are not guaranteed to traverse the elements of the priority queue in any particular order. If you need ordered traversal, consider using Arrays.sort(pq.toArray()). Note that this implementation is not synchronized. Multiple threads should not access a PriorityQueue instance concurrently if any of the threads modifies the queue. Instead, use the thread-safe java.util.concurrent.PriorityBlockingQueue class. Implementation note: this implementation provides O(log(n)) time for the enqueuing and dequeuing methods (offer, poll, remove() and add); linear time for the remove(Object) and contains(Object) methods; and constant time for the retrieval methods (peek, element, and size). This class is a member of the Java Collections Framework." />
@@ -53,12 +54,11 @@
       <item value="* Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream." />
       <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
       <item value="Returns a stream consisting of the distinct elements" />
-      <item value="Returns an effectively unlimited stream of pseudorandom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ESPERANTO" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637133497153" />
+    <option name="lastTrimTime" value="1637828601518" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
