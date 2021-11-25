@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Don't refer to ImmutableSortedSet by name so it won't pull in all that code" />
       <item value="Annotates a program element that exists, or is more widely visible than otherwise necessary, only for use in test code. Do not use this interface for public or protected declarations: it is a fig leaf for bad design, and it does not prevent anyone from using the declaration---and experience has shown that they will. If the method breaks the encapsulation of its class, then its internal representation will be hard to change. Instead, use RestrictedApiChecker , which enforces fine-grained visibility policies." />
       <item value="priority" />
       <item value="Priority" />
@@ -53,12 +54,11 @@
       <item value="* &lt;p&gt;For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization." />
       <item value="* Returns a stream consisting of the elements of this stream, additionally * performing the provided action on each element as elements are consumed * from the resulting stream." />
       <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
-      <item value="Returns a stream consisting of the distinct elements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ESPERANTO" value="3" />
