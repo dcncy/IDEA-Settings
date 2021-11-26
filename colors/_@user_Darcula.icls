@@ -3,7 +3,7 @@
     <property name="created">2018-11-24T01:08:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2020-06-24T10:28:37</property>
+    <property name="modified">2021-11-26T14:53:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -12,7 +12,7 @@
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="524653" />
+        <option name="FOREGROUND" value="6bce8e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -24,7 +24,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5b7c7e" />
+        <option name="FOREGROUND" value="6bce8e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
