@@ -1,5 +1,68 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dcncy/jsiqi_framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kangjianwei/LearningJDK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://62.234.128.238/shangyehua/lcms-pms" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://62.234.128.238" />
+          <option name="userName" value="shangyehua@ebchinatech.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://62.234.128.238/loan/EBChinaTechLoan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@62.234.128.238:60880/shangyehua/material.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://62.234.128.238/shangyehua/material.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jaywcjlove/awesome-mac.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@62.234.128.238:60880/shangyehua/lcms-pms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@62.234.128.238:60880/shangyehua/material.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://62.234.128.238/shangyehua/lcms-pms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/paascloud/paascloud-master.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/WorkSpaces/1.Github" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
 </application>
