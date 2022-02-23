@@ -2,6 +2,12 @@
   <component name="easyJavadoc">
     <option name="appId" value="" />
     <option name="author" value="JiSiQi" />
+    <option name="classTemplateConfig">
+      <TemplateConfig>
+        <option name="isDefault" value="false" />
+        <option name="template" value="/**&#10; * @description: TODO&#10; *&#10; * @author: $AUTHOR$&#10; *&#10; * @date: $DATE$&#10; */" />
+      </TemplateConfig>
+    </option>
     <option name="dateFormat" value="yyyy/MM/dd hh:mm" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
