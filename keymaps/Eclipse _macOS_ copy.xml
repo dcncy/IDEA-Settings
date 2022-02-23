@@ -44,4 +44,12 @@
     <keyboard-shortcut first-keystroke="meta alt z" />
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="javadoc.generator">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="javadoc.generatorAll">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
 </keymap>
