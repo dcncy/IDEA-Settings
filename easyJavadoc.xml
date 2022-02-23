@@ -1,6 +1,6 @@
 <application>
   <component name="easyJavadoc">
-    <option name="appId" value="" />
+    <option name="appId" value="20211117001001457" />
     <option name="author" value="JiSiQi" />
     <option name="classTemplateConfig">
       <TemplateConfig>
@@ -11,6 +11,7 @@
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
-    <option name="token" value="" />
+    <option name="token" value="cOdgr8byeFajlep9RdX3" />
+    <option name="translator" value="百度翻译" />
   </component>
 </application>
