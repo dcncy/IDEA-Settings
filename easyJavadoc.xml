@@ -21,10 +21,14 @@
       </TemplateConfig>
     </option>
     <option name="dateFormat" value="yyyy/MM/dd hh:mm" />
+    <option name="genAllClass" value="true" />
+    <option name="genAllField" value="true" />
+    <option name="genAllInnerClass" value="true" />
+    <option name="genAllMethod" value="true" />
     <option name="methodTemplateConfig">
       <TemplateConfig>
         <option name="isDefault" value="false" />
-        <option name="template" value="/**&#10; * $DOC$&#10; * &#10; * $RETURN$&#10; * @params: $PARAMS$&#10; * @author: $AUTHOR$&#10; * @date: $DATE$&#10; */" />
+        <option name="template" value="/**&#10; * $DOC$&#10; * &#10; * $RETURN$&#10; * $PARAMS$&#10; * @author: $AUTHOR$&#10; * @date: $DATE$&#10; */" />
       </TemplateConfig>
     </option>
     <option name="secretId" value="" />
