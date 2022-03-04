@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="FindPrevious" />
+  <action id="GenerateGetterAndSetter">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
   <action id="GotoFile" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
