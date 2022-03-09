@@ -74,9 +74,17 @@
           <option name="url" value="http://git.jsiqi.com" />
           <option name="userName" value="jdcncy@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.jsiqi.com:dcncy/Surge_Mac_Proxy_Config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.jsiqi.com/dcncy/Surge_Mac_Proxy_Config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WorkSpaces/1.Github" />
+    <option name="cloneParentDir" value="$USER_HOME$/WorkSpaces/3.PersonalGit" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
