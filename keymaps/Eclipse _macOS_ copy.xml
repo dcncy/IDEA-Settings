@@ -21,6 +21,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="GotoUrlAction" />
   <action id="Images.SetBackgroundImage">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
