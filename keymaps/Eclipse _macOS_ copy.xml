@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="AddToFavoritesPopup" />
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="shift ctrl h" />
@@ -33,6 +34,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
+  <action id="MethodDuplicates">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -42,6 +46,9 @@
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunToCursor" />
   <action id="SurroundWith">
