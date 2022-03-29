@@ -1,5 +1,6 @@
 <keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
   <action id="AddToFavoritesPopup" />
+  <action id="ClassNameCompletion" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -58,5 +59,8 @@
   <action id="javadoc.generatorAll">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="编辑器Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
 </keymap>
